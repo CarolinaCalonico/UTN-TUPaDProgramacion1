@@ -5,7 +5,7 @@ Tecnicatura Universitaria en Programación
 
 📍 Universidad Tecnológica Nacional
 
-✨ Estudiante
+✨ Estudiante:
 
 Nombre: Calonico, Carolina Rosario
 
