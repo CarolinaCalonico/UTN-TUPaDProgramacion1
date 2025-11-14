@@ -43,12 +43,10 @@ exp = int(input("Exponente: "))
 print(f"{base}^{exp} = {potencia(base, exp)}")
 
 # 4) Conversión recursiva de decimal a binario (string)
-def decimal_a_binario(n):
-    if n == 0:  # Caso base
-        return "0"
-    if n == 1:
-        return "1"
-    else:
+def decimal_a_binario(n): 
+    if n == 0: 
+        return "" 
+    else: 
         return decimal_a_binario(n // 2) + str(n % 2)
 
 # Programa principal
